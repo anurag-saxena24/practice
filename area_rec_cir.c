@@ -11,7 +11,7 @@ int main()
     rperi = 2*(length+breadth);
     rarea = length*breadth;
     printf("THE PERIMETER TOF THE RECTANGLE IS : %f \n",rperi);
-    printf("THE AREA OF THE RECTANGLE IS : %f \n",rarea);
+    printf("THE AREA OF THE Rectangle IS : %f \n",rarea);
     //now for the circle
     float radius,cir,area;
     const float pi=3.14;
